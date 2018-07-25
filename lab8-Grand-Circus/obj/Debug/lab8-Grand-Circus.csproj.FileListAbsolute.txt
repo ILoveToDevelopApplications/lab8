@@ -1,0 +1,7 @@
+C:\Users\An Image of God\source\repos\lab8GrandCircus\lab8-Grand-Circus\obj\Debug\lab8-Grand-Circus.csprojAssemblyReference.cache
+C:\Users\An Image of God\source\repos\lab8GrandCircus\lab8-Grand-Circus\obj\Debug\lab8-Grand-Circus.csproj.CoreCompileInputs.cache
+C:\Users\An Image of God\source\repos\lab8GrandCircus\lab8-Grand-Circus\bin\Debug\lab8-Grand-Circus.exe.config
+C:\Users\An Image of God\source\repos\lab8GrandCircus\lab8-Grand-Circus\bin\Debug\lab8-Grand-Circus.exe
+C:\Users\An Image of God\source\repos\lab8GrandCircus\lab8-Grand-Circus\bin\Debug\lab8-Grand-Circus.pdb
+C:\Users\An Image of God\source\repos\lab8GrandCircus\lab8-Grand-Circus\obj\Debug\lab8-Grand-Circus.exe
+C:\Users\An Image of God\source\repos\lab8GrandCircus\lab8-Grand-Circus\obj\Debug\lab8-Grand-Circus.pdb
